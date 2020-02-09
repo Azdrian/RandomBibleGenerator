@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+#wrapper {
+    height: 550px;
+    width :1000px;
+    margin: 20px auto;
+    background-color: rebeccapurple;
+}
+
+
