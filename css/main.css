@@ -10,3 +10,19 @@ body {
 }
 
 
+#randomGenerator{
+    text-align: center;
+    
+}
+
+.author {
+    font-weight: 800;
+    font-size: 34px;
+    padding-top: 20px;
+}
+.verseText{
+    padding-top: 120px;
+    margin: 0 20px;
+    color: red;
+
+}
